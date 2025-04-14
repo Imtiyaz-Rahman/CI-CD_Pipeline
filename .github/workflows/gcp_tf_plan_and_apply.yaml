@@ -3,7 +3,7 @@
  on:
    push:
      branches:
-       - 'GCP-infrastructure-setup'
+       - 'main'
    release:
      types: [created]
  
